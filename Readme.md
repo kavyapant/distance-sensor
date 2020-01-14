@@ -1,0 +1,1 @@
+Mini Project on Measurement of Distance of any object using Ultrasonic Sensor by interfacing it to ARM microcontroller LPC1768. 
